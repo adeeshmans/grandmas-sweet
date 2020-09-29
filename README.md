@@ -1,2 +1,2 @@
-# grandmas-sweet
-BootStrap 4 website
+# js-cart-setup
+ADD ITEMS TO CART JAVASCRIPT PROJECT
